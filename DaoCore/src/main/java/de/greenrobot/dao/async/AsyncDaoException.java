@@ -23,6 +23,7 @@ import de.greenrobot.dao.DaoException;
  * 
  * @author Markus
  */
+ //异步的DAO的异常信息类
 public class AsyncDaoException extends DaoException {
 
     private static final long serialVersionUID = 5872157552005102382L;
